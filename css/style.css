@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box{
+    width: 48%;
+    margin: 5px;
+    color: rgb(101, 101, 101);
+}
+
+.box img{
+    width: 100%;
+}
+
+.box i{
+    color: rgb(101, 101, 101);
+}
+
+.box p{
+    margin: 20px 0;
+}
+
+.zzz{
+    color: black;
+    font-weight: 800;
+}
+
+.xxx{
+    margin-top: 68px;
+}
+
+.xxx i{
+    margin: 0 10px;
+}
+
+.fa-thumbs-up{
+    margin-left: 0;
+}
+
+.fa-thumbs-down{
+    margin-left: 10px;
+}
+
+.fa-eye{
+    margin-left: 10px;
+}
+
+.fa-bookmark{
+    margin-left: 260px;
+}
